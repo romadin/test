@@ -1,0 +1,62 @@
+body
+{
+	background-color: #FEFEB4;
+	font-family: Calibri;
+	color: #050f96;
+}
+
+.navbar-default 
+{
+	background-color: #08a6c1;
+	border-color: #02889e;
+}
+
+.navbar-default .navbar-brand {
+    color: #050f96;
+}
+
+.navbar-default .navbar-nav li a {
+    color: #050f96;
+}
+
+.btn-default {
+    color: #050f96;
+    background-color: #08a6c1;
+    border-color: #02889e;
+}
+
+.btn-default:hover {
+    color: #050f96;
+    background-color: #02c0e0;
+    border-color: #02889e;
+}
+
+.btn-default:active {
+    color: #050f96;
+    background-color: #02c0e0;
+    border-color: #02889e;
+}
+
+.btn-default:focus {
+    color: #050f96;
+    background-color: #02c0e0;
+    border-color: #02889e;
+}
+
+.btn-default:active:hover {
+    color: #050f96;
+    background-color: #02c0e0;
+    border-color: #02889e;
+}
+
+a:hover {
+	text-decoration: none;
+}
+a:focus {
+	text-decoration: none;
+}
+
+.google-maps
+{
+    margin-bottom: 18px;
+}
